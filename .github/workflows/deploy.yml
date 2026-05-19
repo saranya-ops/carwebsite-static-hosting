@@ -5,7 +5,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: 271598835201.dkr.ecr.us-east-1.amazonaws.com/saranyarepo
+  ECR_REPOSITORY: saranyarepo
   IMAGE_TAG: latest
 
 jobs:
